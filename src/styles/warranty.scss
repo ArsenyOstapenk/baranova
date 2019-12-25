@@ -1,0 +1,100 @@
+.warranty {
+   padding-top: 52px;
+   position: relative;
+   background: linear-gradient(81.18deg, #1D53DE 2.27%, #29BDFC 50.61%, #00FCFC 97.04%);
+}
+
+.warranty-btn__elem {
+   display: flex;
+   justify-content: center;
+
+   button {
+      display: flex;
+      flex-direction: column;
+      background: #FFFFFF;
+      border-radius: 10px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 39px;
+      text-align: center;
+      text-transform: uppercase;
+      color: #FC2976;
+      border-style: none;
+      cursor: pointer;
+      padding: 15px 70px;
+
+      h1 {
+         margin: 0;
+         width: 100%;
+      }
+
+      h3 {
+         margin: 0;
+         width: 100%;
+      }
+   }
+}
+
+.warranty-btn {
+   margin-bottom: 71px;
+}
+
+.warranty-content__dimond {
+   position: relative;
+
+   h1 {
+      position: absolute;
+      top: 28%;
+      right: 15%;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 56px;
+      line-height: 68px;
+      color: #FFFFFF;
+   }
+}
+
+.warranty-content {
+   margin-bottom: 70px;
+}
+
+.warranty-title {
+
+   h3 {
+      margin: 0;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 29px;
+      color: #FFFFFF;
+      margin-bottom: 30px;
+   }
+}
+
+.list-text {
+
+   h4 {
+      margin: 0;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 24px;
+      line-height: 29px;
+      color: #FFFFFF;
+   }
+}
+
+.warranty-list__elem {
+   display: flex;
+   list-style: none;
+   margin-bottom: 40px;
+}
+
+.warranty-list {
+   padding: 0;
+   margin: 0;
+}
+
+.list-img {
+   margin-right: 19px;
+}
